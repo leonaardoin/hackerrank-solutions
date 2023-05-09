@@ -1,0 +1,5 @@
+function simpleArraySum(ar) {
+    return (ar || []).reduce((target, item) => { 
+        return target + item;
+    }, 0)
+}
