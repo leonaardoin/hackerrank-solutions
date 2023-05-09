@@ -1,0 +1,18 @@
+function migratoryBirds(arr){
+    var largest=1; //holds num of bird sighting for each id
+    var counter=largest; //compare the largest
+    var type=0;  //holds id number of bird
+
+    arr.sort();
+//count num of occurrences for bird type by iterating through array
+        for(var i=0;i<arr.length;i++){
+    //return first index and return last index
+    largest=arr.lastIndexOf(arr[i])-arr.indexOf(arr[i])+1;
+   //compare largest and counter variable 
+            if(largest>counter){
+                counter=largest;
+                type=arr[i]
+        }
+        }
+    return type
+        };
