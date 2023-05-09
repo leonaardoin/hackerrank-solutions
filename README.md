@@ -4,6 +4,7 @@ These are my solution for HackerRank Challenges. I use Javascript for these solu
 https://www.hackerrank.com/leonaardoin
 
 <h3>Solution List:</h3>
+<li>Diagonal Difference: https://www.hackerrank.com/challenges/diagonal-difference/problem</li>
 <li>Migratory Birds: https://www.hackerrank.com/challenges/migratory-birds/problem </li>
 <li>Apples and Oranges: https://www.hackerrank.com/challenges/apple-and-orange/problem</li>
 <li>Save the Prisoner: https://www.hackerrank.com/challenges/save-the-prisoner/problem </li>
