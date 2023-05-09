@@ -1,0 +1,18 @@
+//count num of apples and oranges that fall on the house
+function countApplesAndOranges(s, t, a, b, apples, oranges) {
+    // Write your code here
+ //set the count for both to zero & iterate through
+    let applesCount=0
+    let orangesCount=0
+        for(let i=0;i<apples.length;i++){
+  // if > or = to s and less than t, increments its own counter.       
+            if(apples[i]+a>=s && apples[i]+a<=t) applesCount++
+    }
+ //otherwise, checks if same item is > or = to t and < than u, then increments its counter if true.   
+       for(let i=0;i<oranges.length;i++){
+       if(oranges[i]+b>=s && oranges[i]+b<=t) orangesCount++
+    }
+    console.log(applesCount)
+    console.log(orangesCount)
+
+}
