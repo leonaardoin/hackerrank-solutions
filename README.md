@@ -4,6 +4,8 @@ These are my solution for HackerRank Challenges. I use Javascript for these solu
 https://www.hackerrank.com/leonaardoin
 
 <h3>Solution List:</h3>
+<li>Compare the Triplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem</li>
+<li>Birthday Cake Candles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem</li>
 <li>Time Conversion: https://www.hackerrank.com/challenges/time-conversion/problem</li>
 <li>Diagonal Difference: https://www.hackerrank.com/challenges/diagonal-difference/problem</li>
 <li>Migratory Birds: https://www.hackerrank.com/challenges/migratory-birds/problem </li>
