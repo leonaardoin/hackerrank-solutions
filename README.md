@@ -4,6 +4,7 @@ These are my solution for HackerRank Challenges. I use Javascript for these solu
 https://www.hackerrank.com/leonaardoin
 
 <h3>Solution List:</h3>
+<li>A Very Big Sum: https://www.hackerrank.com/challenges/a-very-big-sum/problem</li>
 <li>Compare the Triplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem</li>
 <li>Birthday Cake Candles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem</li>
 <li>Time Conversion: https://www.hackerrank.com/challenges/time-conversion/problem</li>
