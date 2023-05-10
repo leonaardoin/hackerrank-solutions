@@ -15,3 +15,4 @@ https://www.hackerrank.com/leonaardoin
 <li>Save the Prisoner: https://www.hackerrank.com/challenges/save-the-prisoner/problem </li>
 <li>Staircase: https://www.hackerrank.com/challenges/staircase/problem </li>
 <li>Queen's Attack II: https://www.hackerrank.com/challenges/queens-attack-2/problem </li>
+<li>Electronics Shop: https://www.hackerrank.com/challenges/electronics-shop/problem</li>
