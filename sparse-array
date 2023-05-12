@@ -1,0 +1,16 @@
+//county how often each query shows in string list
+function matchingStrings(stringList, queries) {
+  //keep track of # of times each query appears in stringList with array of 0 equal to queries array 
+  let arr = Array(queries.length).fill(0)
+  //loop through each query and string
+    for (let i = 0; i < queries.length; i++) {
+        for (let j = 0; j < stringList.length; j++) {
+    //if string of stringList matches query increment count in array arr
+            if (stringList[j] === queries[i]) {
+                arr[i]++
+            }
+        }
+    }
+    //return array of counts
+    return arr
+}
